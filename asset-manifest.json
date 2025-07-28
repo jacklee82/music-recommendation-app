@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/music-recommendation-app/static/js/main.3624b877.js",
+    "index.html": "/music-recommendation-app/index.html",
+    "main.3624b877.js.map": "/music-recommendation-app/static/js/main.3624b877.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3624b877.js"
+  ]
+}
